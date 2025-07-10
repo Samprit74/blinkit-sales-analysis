@@ -18,7 +18,7 @@ This Power BI project analyzes Blinkit's order, inventory, and marketing data to
 ## 👤 Author
 **Samprit Roy**  
 Department of CSE, Gurunanak Institute of Technology  
-Semester: 6th (2025)  
+Semester: 7th (2025)  
 📧 sampritroy99@gmail.com
 
 ## 🔗 Contact Classroom
